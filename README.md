@@ -1,6 +1,6 @@
 # Php image comparison
 
-Use of : <br/>
+Use of : <br/><br/>
 <img src="https://image.prntscr.com/image/NWlbZs3zQqq29voA3ICwKQ.png">
 
 
